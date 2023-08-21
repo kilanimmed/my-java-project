@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections-review/Collections-review.iml" filepath="$PROJECT_DIR$/Collections-review/Collections-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections-review/Collections-reviews.iml" filepath="$PROJECT_DIR$/Collections-review/Collections-reviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Review.iml" filepath="$PROJECT_DIR$/Java-Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+    </modules>
+  </component>
+</project>
